@@ -1,0 +1,20 @@
+{
+  "name": "cac-e2e",
+  "version": "1.0.0",
+  "description": "Workshop testes automatizados",
+  "main": "src/index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Testing",
+    "Cypress.io",
+    "Talking About Testing",
+    "Cypress Básico",
+    "Escola TAT"
+  ],
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
